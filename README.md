@@ -6,13 +6,13 @@
 
 ---
 
-## Descripción del mi proyecto
+## Descripción
 
 Desarrollo de actividades - Javascript
 
 ---
 
-## Tecnologías utili
+## Tecnologías
 
 - Git / GitHub
 - Visual Studio Code
