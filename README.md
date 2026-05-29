@@ -6,7 +6,7 @@
 
 ---
 
-## Descripción del mi proyecto
+## Descripción
 
 Desarrollo de actividades - Javascript
 
